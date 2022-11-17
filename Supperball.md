@@ -1,4 +1,4 @@
-#SUPERBALL Rank #16!
+#SUPERBALL Rank 16!
 
 SuperBall is an ongoing challeng at UT for students taking CS302 with Dr.Plank or Dr.Emrich, 
 the writeup can be found at http://web.eecs.utk.edu/~jplank/plank/classes/cs302/Labs/Lab5/.
